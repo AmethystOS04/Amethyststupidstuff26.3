@@ -47,6 +47,9 @@ adds random startup messages because minecraft logs weren't confusing enough
 - razor of smol
 - razor of hell
 - the end crystal's beam
+- the fallen blade
+- the forsaken edge
+- energizer of souls
 - /song
 - /song badapple
 - /song bliss
