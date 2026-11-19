@@ -4,7 +4,7 @@
 
 [discord](https://discord.gg/qyZHCDbvXW)
 
-current version: **2.2.0 Batch 1**
+current version: **2.2.0 Mini Upd**
 
 current mc versions supported: **1.21.11,** **26.2,** and **26.3**
 
